@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-07-09)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`001aca0`](https://github.com/stdlib-js/stdlib/commit/001aca0bf468b222a3b5c86164a4cd97c65d43a0) - **test:** fix broken tests and add notes _(by Athan Reines)_
 -   [`80d95e6`](https://github.com/stdlib-js/stdlib/commit/80d95e66ee80a2e03c81f11844e0d54bd79029fc) - **test:** pass in missing opts for native tests _(by Philipp Burckhardt)_
 -   [`e762ecf`](https://github.com/stdlib-js/stdlib/commit/e762ecf510ff53385304a1e062d23eb9fda90d01) - **docs:** fix signatures _(by Athan Reines)_
 -   [`3f259f1`](https://github.com/stdlib-js/stdlib/commit/3f259f14f7cab0ea9cc1841df478f49120857040) - **fix:** use correct data type of `searchElement` in C implementation [(#7463)](https://github.com/stdlib-js/stdlib/pull/7463) _(by Muhammad Haris)_
