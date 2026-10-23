@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-06)
+## Unreleased (2026-10-23)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`67c1633`](https://github.com/stdlib-js/stdlib/commit/67c1633c999488e1807bb2aa77183662c6eb387b) - **chore:** fix inconsistencies across packages in `blas/ext/base*` [(#15146)](https://github.com/stdlib-js/stdlib/pull/15146) _(by Muhammad Haris, Athan Reines)_
 -   [`e48bed5`](https://github.com/stdlib-js/stdlib/commit/e48bed574c6f015fc0d9bda71d8aaea7dcfaabc7) - **docs:** fix signatures [(#13426)](https://github.com/stdlib-js/stdlib/pull/13426) _(by Philipp Burckhardt)_
 -   [`547176e`](https://github.com/stdlib-js/stdlib/commit/547176ec139fa4257ee56a3be0597255049fbc12) - **test:** fix grammar in test descriptions _(by Athan Reines)_
 -   [`9c31305`](https://github.com/stdlib-js/stdlib/commit/9c31305739ee5411d758efbe4ac7de92ae3e939b) - **test:** fix grammar in test descriptions _(by Athan Reines)_
@@ -31,10 +32,11 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Muhammad Haris
 -   Philipp Burckhardt
 -   Prajjwal Bajpai
 -   anee3
